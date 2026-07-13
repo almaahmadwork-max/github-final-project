@@ -1,5 +1,5 @@
 # project
-this repository is for testing our knowledge
+
 
 Please consider the below factors while contributing
 
