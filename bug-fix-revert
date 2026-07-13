@@ -1,0 +1,4 @@
+ git revert bug-fix-typo
+[main 8187715] Revert "Create close_pr.yml"
+ 1 file changed, 14 deletions(-)
+ delete mode 100644 .github/workflows/close_pr.yml
